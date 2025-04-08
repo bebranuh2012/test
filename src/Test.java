@@ -1,4 +1,4 @@
 public class Test{
     int zalupa=102;
-    int penis=100;
+    int penis=24;
 }
